@@ -8,7 +8,7 @@ The final map contains 12 trapezoids, namely T1, …, T12. As shown, the points 
 
 <p align="center">
 	<img src="https://github.com/ad8454/TrapezoidalMaps/blob/master/tZMap.PNG" width="600">
-  <div align="center"><i><b>Trapizoidal Map</b></i></div>
+  <div align="center"><i><b>Trapezoidal Map</b></i></div>
 </p>
 
 
